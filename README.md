@@ -1,7 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)](https://linktr.ee/ethans2028)
+[![MasterHead](https://i.ibb.co/nz1ngFj/Screenshot-2022-09-09-101609.png)](https://linktr.ee/ethans2028)
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate Computer Science student from Oakland, California</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/894309/screenshots/7090890/media/bad25bdd27a209bc12fc4d0437fd9c8e.gif">
+<img  align="right" alt="Coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
 
 - 🔭 I’m currently working on **AI Mobile App**
