@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Xamarin.Forms**
 
-- 📫 How to reach me **ethans2028@gmail.com**
+- 📫 How to reach me **ethans2028@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
