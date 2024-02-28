@@ -4,9 +4,9 @@
 <img  align="right" alt="Coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
 
-- 🔭 I’m currently working on **AI Mobile App**
+- 🔭 I’m currently working on **Calfus Data Supply Chain Application**
 
-- 🌱 I’m currently learning **Xamarin.Forms**
+- 🌱 I’m currently learning **AWS Cloud Development**
 
 - 📫 How to reach me **ethans2028@hotmail.com**
 
